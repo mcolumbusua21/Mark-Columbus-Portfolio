@@ -1,0 +1,27 @@
+.story{
+    font-family: 'New Tegomin', serif;
+    color: white;
+}
+.content {
+    width: 100%;
+    font-family: 'New Tegomin', serif;
+    color: white;
+    font-size: calc(2vw + 2px);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row; 
+    flex-wrap: wrap;
+    /* @media (max-width: 767px) */
+
+}
+#work {
+    font-family: 'New Tegomin', serif;
+    color: white;
+    font-size: 20px;
+}
+#start {
+    font-family: 'New Tegomin', serif;
+    color:whitesmoke;
+    font-size: 20px; 
+}

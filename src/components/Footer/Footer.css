@@ -1,0 +1,17 @@
+.references{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: 'New Tegomin', serif;
+    font-size: 18px;
+    color: white;
+    @media screen and (max-width: 600px){
+        height: auto;
+        width: auto;
+    }
+}
+.footer {
+    font-family: 'New Tegomin', serif;
+    display: flex;
+    justify-content: space-evenly;
+}
