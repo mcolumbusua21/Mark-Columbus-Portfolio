@@ -47,7 +47,7 @@ npm start
 mcolumbusua21@gmail.com
 
 ## GitHub
-https://github.com/mcolumbusua21/React-Portfolio.git
+https://github.com/mcolumbusua21/Mark-Columbus-Portfolio.git
 
 ## Link 
 
